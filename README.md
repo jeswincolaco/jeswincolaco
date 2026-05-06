@@ -1,7 +1,3 @@
-Here’s your updated version with your details, keeping the same clean structure and style:
-
----
-
 # Hi 👋 I'm Jeswin Colaco
 
 🎓 Mechanical Engineering Student
@@ -66,7 +62,3 @@ Here’s your updated version with your details, keeping the same clean structur
 > “Design. Build. Innovate. Repeat.” 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jeswincolaco\&color=blue)
-
----
-
-If you want, I can make this **more powerful for internships (like TAMU goals, racing team, projects, etc.)** or tailor it specifically for recruiters.
