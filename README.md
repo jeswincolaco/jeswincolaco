@@ -42,20 +42,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeswincolaco\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeswincolaco\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jeswincolaco\&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: (add your link here)
-* 📧 Email: (add your email here)
+* 🔗 LinkedIn: 
+* 📧 Email: jeswincolaco@gmail.com
 
 ---
 
